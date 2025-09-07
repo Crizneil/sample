@@ -1,2 +1,4 @@
-# sample
-practice repo
+# my-first-repository
+practice rep
+my first repository!!!
+ 
